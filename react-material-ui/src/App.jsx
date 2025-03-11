@@ -5,6 +5,7 @@
 
 import ButtonMUI from "./ButtonMUI"
 import CheckBoxMUI from "./CheckBoxMUI"
+import ListMUI from "./ListMUI"
 import RadioButtonMUI from "./RadioButtonMUI"
 import TextFieldMUI from "./TextFieldMUI"
 
@@ -37,6 +38,7 @@ function App() {
       <ButtonMUI />
       <CheckBoxMUI />
       <RadioButtonMUI />
+      <ListMUI />
     </>
   )
 }
