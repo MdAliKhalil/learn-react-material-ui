@@ -4,6 +4,7 @@
 // import './App.css'
 
 import ButtonMUI from "./ButtonMUI"
+import CheckBoxMUI from "./CheckBoxMUI"
 import TextFieldMUI from "./TextFieldMUI"
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
       </p> */}
       <TextFieldMUI />
       <ButtonMUI />
+      <CheckBoxMUI />
     </>
   )
 }
